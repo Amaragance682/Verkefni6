@@ -1,0 +1,25 @@
+{
+  "name": "verkefni6",
+  "version": "1.0.0",
+  "description": "[Sjá lýsingu á verkefni](https://github.com/vefforritun/vef1-2023-v5).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaragance682/HiVefforritun/tree/main/Verkefni6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaragance682/HiVefforritun/tree/main/Verkefni6/issues"
+  },
+  "homepage": "https://github.com/Amaragance682/HiVefforritun/tree/main/Verkefni6#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "sass": "^1.69.3",
+    "stylelint": "^15.11.0"
+  }
+}
